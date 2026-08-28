@@ -41,6 +41,8 @@ Reconcile the same dates and definitions across systems. Record unexplained diff
 
 Separate new-business performance from the existing subscription tail. A short acquisition spike can raise current revenue without improving its durability.
 
+For guidance on reading the projections built on this data, see [How to Read a Subscription App Forecast](FORECASTING_GUIDE.md).
+
 ## Traffic and acquisition
 
 - Installs and store-page conversion by platform

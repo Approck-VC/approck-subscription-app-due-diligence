@@ -18,6 +18,7 @@ This repository is a starting point, not a replacement for legal, tax, financial
 | Area | What it helps verify |
 | --- | --- |
 | [Valuation inputs](VALUATION_INPUTS.md) | Revenue quality, subscription performance, acquisition economics, costs, and risk |
+| [Forecast guide](FORECASTING_GUIDE.md) | How to read and stress-test a seller's revenue projections |
 | [Technical review](TECHNICAL_REVIEW.md) | Build reproducibility, ownership, infrastructure, security, and maintainability |
 | [Transfer checklist](TRANSFER_CHECKLIST.md) | Store eligibility, asset inventory, credential handover, closing, and post-transfer checks |
 

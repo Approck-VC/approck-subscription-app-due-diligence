@@ -22,6 +22,10 @@ This repository is a starting point, not a replacement for legal, tax, financial
 | [Technical review](TECHNICAL_REVIEW.md) | Build reproducibility, ownership, infrastructure, security, and maintainability |
 | [Transfer checklist](TRANSFER_CHECKLIST.md) | Store eligibility, asset inventory, credential handover, closing, and post-transfer checks |
 
+## Knowledge library
+
+Guides from the [Approck knowledge base](https://approck.com/knowledge) are also available in this repository as plain markdown, including a canonical link back to the live page in each file. Start with the [library index](knowledge/README.md).
+
 ## Quick start
 
 1. Ask the seller to provide evidence for each claimed metric, not only screenshots or summaries.

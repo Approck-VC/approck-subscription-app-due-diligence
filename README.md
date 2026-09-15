@@ -53,6 +53,8 @@ Prefer direct, read-only access to primary systems during diligence. Redact pers
 
 ## Contributing
 
+Read [AGENTS.md](AGENTS.md) for content, evidence, and verification rules. [CLAUDE.md](CLAUDE.md) links to the same instructions.
+
 Corrections and practical additions are welcome. When a checklist item depends on an app-store rule, include a link to the current official Apple or Google documentation.
 
 ## License

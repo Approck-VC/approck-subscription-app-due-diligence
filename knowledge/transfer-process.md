@@ -1,39 +1,28 @@
 ---
 title: "App Transfer & Acquisition Process"
 url: https://approck.com/knowledge/transfer-process
-description: "The mechanics of how a mobile app changes hands are critical to a successful acquisition. There are two primary methods, each with distinct advantages and risks."
+description: "An app sale uses Apple's official app-transfer process. Changes to an organization's Account Holder follow separate eligibility rules."
 ---
 
 # App Transfer & Acquisition Process
 
 > Published at [approck.com/knowledge/transfer-process](https://approck.com/knowledge/transfer-process)
 
-## Method 1: Account Purchase (Preferred)
+## App Transfer
 
-The buyer takes over the seller's entire Apple Developer Account by changing the login credentials, two-factor authentication, and banking details.
+Apple's [official app-transfer process](https://developer.apple.com/help/app-store-connect/transfer-an-app/overview-of-app-transfer) moves an eligible app from the seller's account to the buyer's account. The app keeps its reviews, ratings, and Bundle ID, and users can continue receiving updates.
 
-**Advantages:**
+**Before transfer:**
 
-- Preserves the account's "trust score" with Apple — older accounts with clean histories face fewer review issues
-- No disruption to the app's standing, rankings, or review history
-- Faster and simpler process
+- Check Apple's current transfer criteria for both accounts and the app.
+- Back up the app information and agree on the assets included in the sale.
+- Plan subscription, signing, and service changes required by the app's capabilities.
 
-**When to use:** Ideal when the seller's account contains only the apps being sold, or when the seller is willing to part with the entire account.
+## Account Holder Changes
 
-## Method 2: App Transfer
+For an organization, Apple allows the [Account Holder role](https://developer.apple.com/help/account/access/transfer-the-account-holder-role/) to move to an eligible employee who can legally bind that organization. Individual memberships have limited exceptions that require Apple Developer Support.
 
-Apple's official App Transfer mechanism moves the app from the seller's account to the buyer's account.
-
-**Advantages:**
-
-- Clean legal separation — the app arrives on a fresh account
-- Necessary when the seller has other apps on their account they're keeping
-
-**Drawbacks:**
-
-- Creates a transfer record that some institutional buyers view negatively
-- May trigger additional Apple review scrutiny
-- Resets certain account-level trust signals
+Changing login credentials, two-factor authentication, or banking details does not complete either process. Do not share the seller's Apple Account. Assignment of the Developer Program agreement requires Apple's prior written consent under [its terms](https://developer.apple.com/support/terms/apple-developer-program-license-agreement/).
 
 ## Essential Transfer Checklist
 
@@ -55,13 +44,13 @@ This eliminates the most common risk in private app sales: one party fulfilling 
 
 ## Frequently asked questions
 
-### What are the two common ways to transfer app ownership?
+### How should an app sale transfer ownership?
 
-Deals usually close via full account purchase or Apple’s official app transfer process.
+Use Apple's official app-transfer process after checking eligibility and preparing the required subscription and service changes.
 
-### Why do some buyers prefer account purchase?
+### Can a buyer simply take over the seller's login?
 
-It can preserve account trust history and reduce friction compared with moving apps between accounts.
+No. Login and banking changes do not transfer ownership. Account Holder changes have separate eligibility rules, and assignment of the Developer Program agreement requires Apple's consent.
 
 ### When should escrow be used in app acquisitions?
 

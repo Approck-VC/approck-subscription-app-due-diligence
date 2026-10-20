@@ -10,6 +10,7 @@ This repository contains public Markdown checklists and knowledge content for su
 
 - Preserve the distinction between revenue, store proceeds, profit, MRR, valuation inputs, and forecast assumptions. Do not turn forecasts or illustrative examples into verified financial claims.
 - Support changes to app-store requirements with current official Apple or Google documentation. Preserve canonical links to the live Approck knowledge pages and update the relevant index when adding or moving content.
+- Decision (2026-10-20, owner): keep the original wording of `knowledge/transfer-process.md`. Account purchase is the preferred method and Apple's App Transfer is the alternative, as on approck.com and in the investor presentation. Do not rewrite, soften, or remove this guidance during audits or copy edits without explicit owner approval, including for the official-documentation rule above.
 - Keep private seller and buyer data, credentials, production exports, and transaction evidence out of this public repository.
 - Preserve the existing checklist structure and Creative Commons Attribution 4.0 license. Keep new prose concise and actionable.
 
